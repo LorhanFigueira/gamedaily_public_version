@@ -30,7 +30,11 @@ GameDaily é um site de ancoragem de jogos diários da internet com o intuito de
 <img src="https://img.shields.io/badge/Tailwind-white?style=for-the-badge&logo=tailwindcss&logoColor=white&color=%2306B6D4">
 <img src="https://img.shields.io/badge/JavaScript-Yellow?style=for-the-badge&logo=javascript&logoColor=white&color=orange">
 
-## 🧑‍💻 Desenvolvedor do Projeto
+## Acesso 🛜
+
+Para acessar o site, clique <a href="https://gamedaily.netlify.app/">aqui</a>
+
+## Desenvolvedor do Projeto 🧑‍💻
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/191516212?v=4" width=115><br><sub>LorhanFigueira</sub>](https://github.com/LorhanFigueira) |
 | :---: |
