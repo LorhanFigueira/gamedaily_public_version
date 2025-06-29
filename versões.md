@@ -1,3 +1,21 @@
+# GameDaily | 1.4.0 🎮🧑‍🔧⚙️
+
+
+### Patch
+
+Nav que estava colidindo com as informações mostradas na aba de configurações.
+
+### QoL
+
+Visual novo para a Nav Mobile, sendo movida para a parte inferior.
+
+### Jogos Adicionados
+- Scaredle
+- Enrolado
+- WhenTaken
+
+
+
 # GameDaily | 1.3.0 🎮 
 
 ### Jogos Adicionados 
