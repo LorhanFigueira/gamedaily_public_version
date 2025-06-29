@@ -1,3 +1,11 @@
+# GameDaily | 1.4.2 ⚙️
+
+Ajuste de Cor.
+
+# GameDaily | 1.4.1 ⚙️
+
+Ajuste de Cor.
+
 # GameDaily | 1.4.0 🎮🧑‍🔧⚙️
 
 
