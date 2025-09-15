@@ -38,3 +38,10 @@ Para acessar o site, clique <a href="https://gamedaily.netlify.app/">aqui</a>
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/191516212?v=4" width=115><br><sub>LorhanFigueira</sub>](https://github.com/LorhanFigueira) |
 | :---: |
+
+## Roadmap 🚶
+
+- Upload de imagem invés de link.
+- Rework do Site.
+
+
