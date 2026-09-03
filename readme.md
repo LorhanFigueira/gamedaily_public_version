@@ -41,7 +41,6 @@ Para acessar o site, clique <a href="https://gamedaily.netlify.app/">aqui</a>
 
 ## Roadmap 🚶
 
-- Upload de imagem invés de link.
-- Rework do Site.
+- Rework inteiro do Site. ( 2026 )
 
 
